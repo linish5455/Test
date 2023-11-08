@@ -1,5 +1,8 @@
+# Импортируем модуль очереди
 from queue import Queue
+# Импортируем модуль для генерации случайных чисел
 import random
+# Импортируем модуль для визуализации данных
 import matplotlib.pyplot as plt
 
 class CityGrid:
